@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steve Shacker
-- 👀 I’m interested in Cyber Security | Penetration Testing
+- 👀 I’m a Cyber Security enthusiast.
 - ⚡ Fun fact: Exploring the Tech World
 
 <!---
