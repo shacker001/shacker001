@@ -19,6 +19,8 @@ src="https://img.shields.io/twitter/follow/shacker01_steve?logo=twitter&style=fo
 
 ### Badges
 
+<script src="https://tryhackme.com/badge/944351"></script>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/shacker001"><img src="https://github-readme-stats.vercel.app/api?username=shacker001&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shacker001's GitHub stats" /></a>
