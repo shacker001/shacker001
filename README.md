@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steve Shacker
-- 👀 I’m a Cyber Security enthusiast.
+- 👀 I’m a Cyber Security enthusiast | Web dev | Graphic designer.
 - ⚡ Fun fact: Exploring the Tech World
 * 🖥️  See my portfolio at [Sh4cker](http://shacker001.github.io/Sh4cker/)
 * ✉️  You can contact me at [ojsteve01@gmail.com](mailto:ojsteve01@gmail.com)
